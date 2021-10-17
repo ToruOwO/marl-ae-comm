@@ -1,0 +1,9 @@
+torch>=1.5.0
+gym>=0.15.7
+easydict>=1.9
+imageio>=2.6.1
+numpy>=1.18.1
+opencv_contrib_python>=4.2.0.34
+Pillow>=7.2.0
+scikit-image>=0.16.2
+scikit-video>=1.1.11
